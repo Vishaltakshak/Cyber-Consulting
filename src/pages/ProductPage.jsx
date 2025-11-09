@@ -28,9 +28,8 @@ const staggerContainer = {
   },
 };
 
-// --- HELPER COMPONENT FOR DYNAMIC SECTION CONTENT ---
 const SectionContent = ({ section }) => {
-  // Type 1: Paragraphs
+
   if (section.paragraphs) {
     return (
       <div className="space-y-4">
@@ -147,7 +146,7 @@ const ProductPage = () => {
       }}
     >
       {/* Hero Section */}
-      <section className="relative w-full h-[450px] md:h-[500px] flex items-center justify-center text-white overflow-hidden">
+      <section className="relative w-full h-[450px] md:h-[500px] flex items-center justify-center text-white overflow-hidden pt-4">
         {heroImg ? (
           <img
             src={heroImg}
