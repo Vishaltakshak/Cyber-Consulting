@@ -1,0 +1,732 @@
+{
+  "services": [
+     {
+      "id": "cyber-defense-training-factory",
+      "title": "Cyber Defense Training Factory",
+      "tagline": "Building next-generation cyber defense talent through immersive, hands-on learning.",
+      "hero": { "img": "/assests/product/phishiq1.jpg" },
+      "sections": [
+        {
+          "title": "Immersive Learning Methodology",
+          "content": "Experience world-class cybersecurity training designed around real-world scenarios. Our programs integrate MITRE framework, mentor-led projects, and continuous assessments to ensure skill mastery.",
+          "points": [
+            "Hands-on cyber labs & simulations",
+            "Continuous assessment and feedback",
+            "Expert mentorship & project guidance"
+          ],
+          "img": "/assests/product/phishiq1.jpg"
+        },
+        {
+          "title": "Core Training Domains",
+          "content": "Comprehensive coverage across key cybersecurity disciplines that equip learners for modern defense challenges.",
+          "points": [
+            "Advanced Persistent Threat Detection",
+            "Cloud Security Architecture",
+            "Secure Development Practices",
+            "Network Defense & Incident Response",
+            "Threat Intelligence Analysis"
+          ],
+          "img": "/assests/product/cloudSecurity1.jpg"
+        },
+        {
+          "title": "Training Infrastructure",
+          "content": "Leverage cutting-edge virtual and physical environments for a realistic, high-impact learning experience.",
+          "points": [
+            "Modern Cyber Range",
+            "Virtual Labs for remote learners",
+            "Dedicated Research Facilities",
+            "Access to enterprise-grade tools"
+          ],
+          "img": "/assests/product/ucf2.jpg"
+        },
+        {
+          "title": "Career Development Path",
+          "content": "Structured progression model that prepares candidates for industry certifications, internships, and global placements.",
+          "points": [
+            "Integrated certification prep",
+            "Internship & placement assistance",
+            "Comprehensive career mentorship"
+          ],
+          "img": "/assests/services/aihero1.jpg"
+        },
+        {
+          "title": "Research & Innovation",
+          "content": "Fostering security innovation through emerging threat research and collaborative industry projects.",
+          "points": [
+            "Emerging threat research",
+            "Innovation labs & tool development",
+            "Research publication opportunities"
+          ],
+          "img": "/assests/services/websecurityhero.jpg"
+        }
+      ]
+    },
+    {
+      "id": "indigenous-cybersecurity-excellence",
+      "title": "Indigenous Cybersecurity Excellence",
+      "tagline": "Revolutionary All-in-One MDR Platform for next-generation cyber resilience.",
+      "hero": { "img": "/assests/product/cloudSecurity1.jpg" },
+      "sections": [
+        {
+          "title": "All-in-One Security Platform",
+          "content": "A next-gen, data science–driven MDR platform unifying SIEM, SOAR, EDR, XDR, and Threat Intelligence capabilities into one integrated defense ecosystem.",
+          "points": [
+            "Built on MITRE D3FEND Framework",
+            "12,000+ custom defensive rules",
+            "Comprehensive multi-layer protection"
+          ],
+          "img": "/assests/services/infraHero.jpg"
+        },
+        {
+          "title": "Flexible Deployment Models",
+          "content": "Choose from multiple deployment models based on organizational requirements and resource capacity.",
+          "points": [
+            "Dedicated Security Operations",
+            "Co-managed hybrid SOC services",
+            "Fully managed cybersecurity operations"
+          ],
+          "img": "/assests/services/data1.webp"
+        },
+        {
+          "title": "Integrated Security Stack",
+          "content": "Unified suite combining detection, analytics, and response across the enterprise.",
+          "points": [
+            "Deep Packet Inspection",
+            "Flow Analytics",
+            "User Behavior Analytics",
+            "DNS Security & Threat Intel Feeds"
+          ],
+          "img": "/assests/services/ai3.webp"
+        },
+        {
+          "title": "Expert Cyber Defenders",
+          "content": "A highly skilled team of cyber researchers, engineers, and red team professionals driving innovation.",
+          "points": [
+            "60+ team patents",
+            "1500+ research papers",
+            "Elite cybersecurity expertise"
+          ],
+          "img": "/assests/services/socialhero.jpg"
+        },
+        {
+          "title": "Global Cybersecurity Outlook",
+          "content": "Positioned to capture a significant share of the rapidly expanding global cybersecurity market projected to reach $372B by 2028.",
+          "points": [
+            "Rising threat sophistication",
+            "Increasing compliance mandates",
+            "Cloud-first architecture challenges"
+          ],
+          "img": "/assests/services/infra2.webp"
+        }
+      ]
+    },
+    
+    {
+      "id": "red-team-adversary-simulation",
+      "title": "Red Team & Adversary Simulation",
+      "tagline": "Simulate real-world cyberattacks to uncover hidden vulnerabilities and build resilient defenses.",
+      "hero": { "img": "/assests/services/redteamHero.jpg" },
+      "sections": [
+        {
+          "title": "Understanding Red Teaming",
+          "content": "Our Red Team & Adversary Simulation service replicates real-world attacker behavior to uncover hidden weaknesses in your security environment.",
+          "points": [
+            "Expose hidden vulnerabilities",
+            "Strengthen incident response readiness",
+            "Build organizational security confidence"
+          ],
+          "img": "/assests/services/sesitive5.webp"
+        },
+        {
+          "title": "Comprehensive Attack Simulations",
+          "content": "We execute targeted simulations across multiple attack vectors to measure true defensive maturity and employee awareness.",
+          "points": [
+            "Phishing Simulation",
+            "Breach Simulation",
+            "EDR Bypass & Defense Evasion"
+          ],
+          "img": "/assests/services/sesitive4.webp"
+        },
+        {
+          "title": "Security Awareness & Assessment",
+          "content": "Security testing doesn’t stop at exploitation. We train and empower your workforce with customized awareness programs and post-assessment insights.",
+          "points": [
+            "Awareness Campaigns",
+            "Health Score Assessment",
+            "Continuous Learning"
+          ],
+          "img": "/assests/services/ai4.webp"
+        },
+        {
+          "title": "Red Team Engagement Methodology",
+          "content": "Our structured red team methodology delivers realistic attack simulations with measurable outcomes and continuous improvement paths.",
+          "points": [
+            "Consultation & Scoping",
+            "Threat Modeling & Exploitation",
+            "Reporting & Remediation"
+          ],
+          "img": "/assests/services/incident1.webp"
+        },
+        {
+          "title": "Transform Your Cyber Resilience",
+          "content": "Gain full visibility into your true security readiness through data-driven adversary simulation.",
+          "points": [
+            "Realistic threat emulation",
+            "Continuous defense improvement",
+            "Strategic risk reduction"
+          ],
+          "img": "/assests/services/penerationtesting1.webp"
+        }
+      ]
+    },
+    {
+      "id": "web-application-security-testing",
+      "title": "Web Application and Security Testing",
+      "tagline": "Proactively identify and address vulnerabilities before potential exploitation with advanced testing methodologies.",
+      "hero": { "img": "/assests/services/websecurityhero.jpg" },
+      "sections": [
+        {
+          "title": "What is Web Application and Security Testing?",
+          "content": "Web app security testing involves evaluating and analyzing web applications for vulnerabilities such as SQL Injection, XSS, and broken authentication. This ensures protection against unauthorized access and data breaches.",
+          "points": [
+            "Testing against latest CVEs (severity 7+)",
+            "Comprehensive vulnerability assessment",
+            "End-to-end risk mitigation"
+          ],
+          "img": "/assests/services/websecurity1.webp"
+        },
+        {
+          "title": "Improved Web App Performance",
+          "content": "Vulnerability testing identifies weak points that, once fixed, make applications more stable and reliable, boosting uptime and user satisfaction.",
+          "points": [
+            "Enhanced application stability",
+            "Reduced downtime",
+            "Optimized performance post-remediation"
+          ],
+          "img": "/assests/services/websecurity2.webp"
+        },
+        {
+          "title": "Ensure Business Continuity",
+          "content": "Our proactive approach prevents security incidents, ensuring uninterrupted operations and long-term stability for your business.",
+          "points": [
+            "Uninterrupted business processes",
+            "Minimized security disruptions",
+            "Strengthened operational resilience"
+          ],
+          "img": "/assests/services/websecurity3.webp"
+        },
+        {
+          "title": "Build Security Confidence",
+          "content": "Our detailed reports and analytics offer valuable insights into your security posture, enhancing trust and confidence in your web apps.",
+          "points": [
+            "Comprehensive vulnerability reports",
+            "Actionable remediation guidance",
+            "Security confidence reinforcement"
+          ],
+          "img": "/assests/services/websecurity4.webp"
+        },
+        {
+          "title": "Testing & Methodology",
+          "content": "We combine automation with expert manual testing to detect even the most complex vulnerabilities, leveraging OWASP Top 10 and beyond.",
+          "points": [
+            "OWASP Top 10 Testing",
+            "Custom Logic Bugs Testing",
+            "Holistic Security Assessments",
+            "Continuous Monitoring",
+            "Tailored Solutions",
+            "Compliance & Regulations",
+            "Global Reach"
+          ],
+          "img": "/assests/services/websecurity5.webp"
+        }
+      ]
+    },
+    {
+      "id": "penetration-testing-vapt",
+      "title": "Penetration Testing (VAPT)",
+      "tagline": "Identify and mitigate potential security risks before they are exploited through advanced penetration testing and private POCs.",
+      "hero": { "img": "/assests/services/aihero.jpg" },
+      "sections": [
+        {
+          "title": "What is Penetration Testing?",
+          "content": "Penetration testing (VAPT) simulates real-world attacks to evaluate your system, network, or application security and uncover exploitable vulnerabilities before malicious actors do.",
+          "points": [
+            "Simulated cyberattacks to test resilience",
+            "Identify vulnerabilities across assets",
+            "Enhance threat preparedness"
+          ],
+          "img": "/assests/services/penetrationhero.jpg"
+        },
+        {
+          "title": "Expose Hidden Vulnerabilities",
+          "content": "Our expert testers leverage real-world attacker methodologies to find gaps often missed by automated tools.",
+          "points": [
+            "Identify network and application weaknesses",
+            "Reveal overlooked vulnerabilities",
+            "Strengthen defense posture proactively"
+          ],
+          "img": "/assests/services/penerationtesting1.webp"
+        },
+        {
+          "title": "Mitigate Organizational Risks",
+          "content": "Simulated cyberattacks uncover potential risks and provide actionable insights to strengthen your infrastructure and reduce exposure.",
+          "points": [
+            "Detailed risk analysis",
+            "Actionable mitigation strategies",
+            "Continuous improvement recommendations"
+          ],
+          "img": "/assests/services/penetrationtesting2.webp"
+        },
+        {
+          "title": "Comprehensive VAPT Framework",
+          "content": "Our structured approach ensures thorough scanning, impact analysis, and prioritized remediation for maximum effectiveness.",
+          "points": [
+            "Scanning for Vulnerabilities",
+            "Impact Analysis",
+            "Manual Penetration Testing",
+            "Prioritization of Risks",
+            "Detailed Reporting"
+          ],
+          "img": "/assests/services/penerationtesting3.webp"
+        },
+        {
+          "title": "Actionable Reporting & Guidance",
+          "content": "Receive detailed reports with remediation paths and follow-up assessments to ensure long-term resilience.",
+          "points": [
+            "Comprehensive vulnerability reporting",
+            "Mitigation guidance",
+            "Regular health assessments"
+          ],
+          "img": "/assests/services/penetrationtesting4.webp"
+        }
+      ]
+    },
+    
+    {
+      "id": "compliance-auditing",
+      "title": "Compliance and Auditing",
+      "hero": {
+        "title": "Ensure Regulatory Compliance and Build Lasting Trust",
+        "description": "Our Compliance and Auditing services help organizations maintain regulatory adherence, manage risk, and strengthen operational integrity. By aligning your business practices with global standards such as ISO, SOC2, GDPR, and HIPAA, we ensure your organization stays audit-ready and resilient.",
+        "imgUrl": "/assests/services/compilancehero.jpg"
+      },
+      "sections": [
+        {
+          "title": "Risk Management",
+          "description": "Compliance helps in maintaining a robust security posture, minimizing the risk of data breaches, and ensuring quick and effective responses to emerging threats.",
+          "imgUrl": "/assests/services/compliance1.webp"
+        },
+        {
+          "title": "Regulatory Adherence",
+          "description": "By conducting regular audits, organizations can systematically evaluate their security practices against industry standards and legal mandates.",
+          "imgUrl": "/assests/services/compilance2.webp"
+        },
+        {
+          "title": "Building Trust",
+          "description": "Demonstrating compliance builds credibility with customers, investors, and stakeholders, establishing a foundation of trust and transparency.",
+          "imgUrl": "/assests/services/compilance3.webp"
+        }
+      ],
+      "featureSection": {
+        "heading": "Unearth Your Security Weaknesses with Compliance and Auditing",
+        "features": [
+          {
+            "title": "Comprehensive Assessments",
+            "description": "Thorough evaluations to identify compliance gaps and provide actionable recommendations for improvement.",
+            "keyFeatures": [
+              "Identify gaps in current compliance framework",
+              "Provide detailed reports with actionable insights"
+            ],
+            "imgUrl": "/assests/services/compilance4.webp"
+          },
+          {
+            "title": "Regulatory Compliance",
+            "description": "Custom strategies to achieve and maintain compliance with evolving international standards.",
+            "keyFeatures": [
+              "Compliance for ISO-27001, SOC2, GDPR, HIPAA, PCI-DSS",
+              "Continuous monitoring and updates"
+            ],
+            "imgUrl": "/assests/services/compilance5.webp"
+          },
+          {
+            "title": "Internal Audits",
+            "description": "Unbiased reviews that strengthen your internal controls and governance systems.",
+            "keyFeatures": [
+              "Independent control reviews",
+              "Objective analysis of governance and risk management"
+            ],
+            "imgUrl": "/assests/services/compilance6.webp"
+          },
+          {
+            "title": "Policy Development",
+            "description": "Create and maintain security policies that align with regulatory standards and organizational goals.",
+            "keyFeatures": [
+              "Develop and update policies regularly",
+              "Ensure alignment with industry best practices"
+            ],
+            "imgUrl": ""
+          },
+          {
+            "title": "Training and Awareness",
+            "description": "Equip your workforce with compliance knowledge through targeted training and workshops.",
+            "keyFeatures": [
+              "Real-world case studies",
+              "Scenario-based learning for better understanding"
+            ],
+            "imgUrl": ""
+          }
+        ]
+      },
+      
+      "methodology": {
+        "title": "Our Methodology",
+        "steps": [
+          "Consultation & Scoping",
+          "Regulatory Mapping & Risk Identification",
+          "Control Implementation & Testing",
+          "Reporting & Remediation Planning",
+          "Continuous Compliance Monitoring"
+        ]
+      }
+    },
+    {
+      "id": "social-engineering",
+      "title": "Social Engineering",
+      "hero": {
+        "title": "Empower Your Team Against Human-Focused Cyber Threats",
+        "description": "Our Social Engineering services help organizations identify and mitigate human-related vulnerabilities through realistic simulations, training, and awareness campaigns. We focus on strengthening the human layer of security — your most valuable, yet most targeted, defense.",
+        "imgUrl": "/assests/services/socialhero.jpg"
+      },
+      "sections": [
+        {
+          "title": "Identify Human Vulnerabilities",
+          "description": "Discover behavioral weaknesses in your workforce that attackers could exploit and gain insights into how to address them.",
+          "imgUrl": "/assests/services/social1.webp"
+        },
+        {
+          "title": "Enhance Security Awareness",
+          "description": "Expose employees to realistic phishing, vishing, and pretexting attempts to build resilience and security mindfulness.",
+          "imgUrl": "/assests/services/social2.webp"
+        },
+        
+        {
+          "title": "Improve Incident Response",
+          "description": "Identify response gaps through simulations and improve your readiness to handle social engineering attempts effectively.",
+          "imgUrl": "/assests/services/social3.webp"
+        }
+      ],
+      "featureSection": {
+        "heading": "Strengthen Human Security with Social Engineering Testing",
+        "features": [
+          {
+            "title": "Phishing Resilience",
+            "description": "Assess organizational readiness against phishing attempts through simulated campaigns.",
+            "keyFeatures": [
+              "Multi-channel phishing simulations",
+              "Employee susceptibility tracking"
+            ],
+            "imgUrl": "/assests/services/social4.webp"
+          }
+        ]
+      }
+    },    
+    {
+      "id": "infrastructure-monitoring",
+      "title": "Infrastructure Monitoring Services",
+      "hero": {
+        "title": "Stay Ahead with Continuous Infrastructure Monitoring",
+        "description": "Our Infrastructure Monitoring Services ensure uninterrupted visibility into your IT environment, identifying performance issues, misconfigurations, and vulnerabilities before they affect operations. With continuous, expert-driven monitoring, we help organizations optimize performance and security simultaneously.",
+        "imgUrl": "/assests/services/infraHero.jpg"
+      },
+      "sections": [
+        {
+          "title": "Enhanced Operational Efficiency",
+          "description": "Optimize system performance and resource utilization through proactive infrastructure monitoring.",
+          "imgUrl": "/assests/services/infra1.webp"
+        },
+        {
+          "title": "Proactive Problem Resolution",
+          "description": "Detect and resolve potential issues early to prevent downtime and ensure smooth operations.",
+          "imgUrl": "/assests/services/infra2.webp"
+        },
+        {
+          "title": "Improved Security Posture",
+          "description": "Continuous monitoring enables early detection of misconfigurations and vulnerabilities, reinforcing your cybersecurity framework.",
+          "imgUrl": "/assests/services/infra3.webp"
+        }
+      ],
+      "featureSection": {
+        "heading": "Comprehensive Infrastructure Oversight for Maximum Security",
+        "features": [
+          {
+            "title": "Infrastructure Mapping",
+            "description": "Visualize and analyze your IT assets to understand connections and potential vulnerabilities.",
+            "keyFeatures": [
+              "Asset mapping and classification",
+              "Threat vector analysis"
+            ],
+            "imgUrl": "/assests/services/infra4.webp"
+          },
+          {
+            "title": "Application Performance Monitoring (APM)",
+            "description": "Enhance application security and performance by identifying bottlenecks and vulnerabilities.",
+            "keyFeatures": [
+              "Root cause analysis",
+              "Performance optimization"
+            ],
+            "imgUrl": "/assests/services/compilance4.webp"
+          },
+          {
+            "title": "Cloud Infrastructure Monitoring",
+            "description": "Ensure security and operational integrity across cloud environments.",
+            "keyFeatures": [
+              "Cloud gap detection",
+              "Service performance assessment"
+            ],
+            "imgUrl": "/assests/services/infra5.webp"
+          },
+          {
+            "title": "Log Management & Monitoring",
+            "description": "Centralize and analyze logs to detect anomalies and prevent incidents.",
+            "keyFeatures": [
+              "Continuous log analysis",
+              "Incident detection and correlation"
+            ],
+            "imgUrl": "/assests/services/infra6.webp"
+          },
+          {
+            "title": "Real User Monitoring (RUM)",
+            "description": "Gain real-time insights into user experiences to identify issues and improve security.",
+            "keyFeatures": [
+              "Behavioral analysis",
+              "Performance impact tracking"
+            ],
+            "imgUrl": "/assests/services/infra7.webp"
+          }
+        ]
+      },
+      
+      "methodology": {
+        "title": "Our Methodology",
+        "steps": [
+          "Consultation & Scoping",
+          "Tool Deployment & Configuration",
+          "Continuous Monitoring & Alerting",
+          "Performance & Security Optimization",
+          "Reporting & Continuous Improvement"
+        ]
+      }
+    },
+    
+    {
+      "id": "incident-response",
+      "title": "Incident Response Service",
+      "tagline": "Contain breaches fast and minimize downtime with expert forensic analysis and real-time threat intelligence.",
+      "hero": {
+        "img": "/assests/services/incidenthero.jpg"
+      },
+      "sections": [
+        {
+          "title": "What is Incident Response (IR)?",
+          "content": "Incident Response (IR) involves structured detection, containment, eradication, and recovery processes to limit breach impact and restore operations effectively.",
+          "points": [
+            "Quickly identify and contain breaches",
+            "Minimize data loss and downtime",
+            "Implement structured recovery steps"
+          ],
+          "img": "/assests/services/incident1.webp"
+        },
+        {
+          "title": "Breach Containment & Mitigation",
+          "content": "Our specialists respond rapidly to active incidents, isolating threats to prevent further damage and begin restoration immediately.",
+          "points": [
+            "Immediate containment strategies",
+            "Eradication of malicious presence",
+            "Root cause and impact assessment"
+          ],
+          "img": "/assests/services/incident2.webp"
+        },
+        {
+          "title": "Forensic Analysis & Reporting",
+          "content": "Deep-dive digital forensics uncover attacker behavior, entry points, and data exposure, enabling transparent reporting and evidence preservation.",
+          "points": [
+            "Comprehensive digital forensics",
+            "Timeline reconstruction",
+            "Evidence collection for legal use"
+          ],
+          "img": "/assests/services/incident3.webp"
+        },
+        {
+          "title": "Post-Incident Recovery",
+          "content": "We restore systems, strengthen configurations, and ensure your infrastructure emerges more resilient than before.",
+          "points": [
+            "System hardening post-attack",
+            "Backup validation & restoration",
+            "Operational resilience planning"
+          ],
+          "img": "/assests/services/incident4.webp"
+        },
+        {
+          "title": "Continuous Readiness & Training",
+          "content": "Regular IR drills, tabletop exercises, and response plan updates keep your teams battle-ready for any incident scenario.",
+          "points": [
+            "Routine incident simulations",
+            "Playbook enhancement",
+            "Employee response training"
+          ],
+          "img": "/assests/services/incident5.webp"
+        }
+      ],
+      "methodology": {
+        "title": "Our Methodology",
+        "steps": [
+          "Incident Identification",
+          "Containment & Mitigation",
+          "Eradication & Recovery",
+          "Forensic Analysis",
+          "Post-Incident Review"
+        ]
+      }
+    },
+    {
+      "id": "sensitive-data-leakage",
+      "title": "Sensitive Data Leakage Monitoring",
+      "tagline": "Detect unauthorized data exfiltration across cloud, endpoint, and network environments to prevent breaches.",
+      "hero": {
+        "img": "/assests/services/redteamhero.jpg"
+      },
+      "sections": [
+        {
+          "title": "Understanding Data Leakage Monitoring",
+          "content": "Our platform tracks and analyzes sensitive data flows across endpoints, networks, and clouds to detect unauthorized transmission or exposure.",
+          "points": [
+            "End-to-end data visibility",
+            "Continuous monitoring of critical assets",
+            "Advanced exfiltration detection"
+          ],
+          "img": "/assets/services/sensitive1.webp"
+        },
+        {
+          "title": "Cloud & Endpoint Protection",
+          "content": "Monitor cloud storage, SaaS, and endpoint interactions to block suspicious data movements in real time.",
+          "points": [
+            "Real-time threat detection",
+            "Cross-platform visibility",
+            "Automated incident alerts"
+          ],
+          "img": "/assets/services/sensitive2.webp"
+        },
+        {
+          "title": "Regulatory Compliance Assurance",
+          "content": "Stay aligned with global data protection standards like GDPR, HIPAA, and ISO 27001 through automated compliance tracking.",
+          "points": [
+            "Custom compliance frameworks",
+            "Continuous auditing and reporting",
+            "Policy-driven data control"
+          ],
+          "img": "/assets/services/sensitive3.webp"
+        },
+        {
+          "title": "Data Discovery & Classification",
+          "content": "Automatically identify and categorize sensitive data across structured and unstructured environments for better governance.",
+          "points": [
+            "AI-driven data classification",
+            "Discovery of shadow data",
+            "Dynamic labeling and tagging"
+          ],
+          "img": "/assets/services/sensitive4.webp"
+        },
+        {
+          "title": "Threat Response & Incident Management",
+          "content": "Enable rapid response workflows with real-time alerts, automated containment, and comprehensive incident reporting.",
+          "points": [
+            "Smart alerting & escalation",
+            "Detailed forensic trail",
+            "Automated containment triggers"
+          ],
+          "img": "/assets/services/sensitive5.webp"
+        }
+      ],
+      "methodology": {
+        "title": "Our Methodology",
+        "steps": [
+          "Data Discovery & Classification",
+          "Access Control",
+          "Endpoint Protection",
+          "DLP Policy Implementation",
+          "Incident Management & Reporting"
+        ]
+      }
+    },
+    {
+      "id": "ai-llm-security-testing",
+      "title": "AI & LLM Security Testing",
+      "tagline": "Uncover vulnerabilities like prompt injection and data leakage in AI/LLM systems to ensure safe adoption and compliance.",
+      "hero": {
+        "img": "/assests/services/aihero1.jpg"
+      },
+      "sections": [
+        {
+          "title": "Understanding AI Security Testing",
+          "content": "Our AI Security Testing service identifies vulnerabilities in machine learning and large language models, ensuring responsible and secure AI deployment.",
+          "points": [
+            "Comprehensive LLM vulnerability scanning",
+            "Ethical and privacy-compliant testing",
+            "Governance-aligned frameworks"
+          ],
+          "img": "/assests/services/ai1.webp"
+        },
+        {
+          "title": "Prompt Injection & Jailbreak Testing",
+          "content": "Evaluate system resilience against prompt injection, jailbreaks, and output manipulation to protect AI integrity.",
+          "points": [
+            "Prompt-based attack simulations",
+            "Context manipulation detection",
+            "Secure input/output filtering"
+          ],
+          "img": "/assests/services/ai2.webp"
+        },
+        {
+          "title": "Data Leakage & Privacy Testing",
+          "content": "Assess AI systems for unintended data exposure risks and implement privacy-preserving techniques for training data.",
+          "points": [
+            "Sensitive data traceability checks",
+            "PII leakage prevention",
+            "Secure data sanitization"
+          ],
+          "img": "/assests/services/ai3.webp"
+        },
+        {
+          "title": "Adversarial Testing & Red Teaming",
+          "content": "Mimic real-world adversarial attacks on AI pipelines to uncover hidden weaknesses and exploit paths.",
+          "points": [
+            "Adversarial input generation",
+            "Model evasion analysis",
+            "Defense robustness scoring"
+          ],
+          "img": "/assests/services/ai4.webp"
+        },
+        {
+          "title": "Governance & Reporting",
+          "content": "Deliver detailed reports with governance recommendations ensuring ethical and compliant AI adoption.",
+          "points": [
+            "AI governance framework mapping",
+            "Ethical risk analysis",
+            "Mitigation & compliance roadmap"
+          ],
+          "img": "/assests/services/ai5.webp"
+        }
+      ],
+      "methodology": {
+        "title": "Our Methodology",
+        "steps": [
+          "Prompt Injection Testing",
+          "Access Control for AI APIs",
+          "Output Auditing & Red Teaming",
+          "Data Leakage Assessment",
+          "Governance & Reporting"
+        ]
+      }
+    }
+  ]
+}

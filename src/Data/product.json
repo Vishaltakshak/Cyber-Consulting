@@ -1,0 +1,506 @@
+{
+  "products": [
+    {
+      "id": "phish-e",
+      "title": "Phish-E",
+      "tagline": "Complete Phish Operations to Counter Sophisticated Threats",
+      "hero": {
+        "heading": "AI-Driven Phishing Defense Platform",
+        "subheading": "Phish-E™ provides proactive deterrence against state-sponsored and sophisticated threat actors through our unique PhishOps model — combining training, threat scanning, and automated incident response.",
+        "cta": "Schedule a Demo",
+        "image": "/assests/product/phisheHero.webp"
+      },
+      "sections": [
+        {
+          "heading": "AI-Powered Threat Simulation",
+          "paragraphs": [
+            "Attackers don’t just use words — they use emotions. Phish-E’s AI analyzes sentiment and intent behind phishing emails to neutralize emotional manipulation before it compromises your team."
+          ],
+          "image": "/assests/product/phishe1.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Key Triggers Detected",
+          "metrics": [
+            { "title": "Urgency", "value": "High" },
+            { "title": "Authority", "value": "Medium" },
+            { "title": "Curiosity", "value": "Low" }
+          ],
+          "image": "/assests/product/phishe2.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Everything You Need to Stop Phishing Attacks",
+          "features": [
+            "AI Sentiment Analysis",
+            "Phishing Awareness Campaigns",
+            "Email Security Assessment",
+            "Advanced Threat Blocking",
+            "Automated Incident Response",
+            "Cybersecurity Training"
+          ],
+          "image": "/assests/product/phise3.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "The Human-Centric Threat Landscape",
+          "metrics": [
+            { "title": "Average Data Breach Cost", "value": "$4.4M" },
+            { "title": "Breaches Involving Human Element", "value": "60%" },
+            { "title": "Third-Party Breach Involvement", "value": "30%" }
+          ],
+          "image": "/assests/product/phishe4.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "One Platform, Every Threat Vector",
+          "subsections": [
+            {
+              "title": "Email Simulation",
+              "points": [
+                "Customizable Templates",
+                "Link & Attachment Scanning",
+                "Advanced Threat Detection"
+              ]
+            },
+            {
+              "title": "SMS Simulation",
+              "points": [
+                "Realistic Smishing Scenarios",
+                "Shortened URL Tracking",
+                "Geotargeted Campaigns"
+              ]
+            },
+            {
+              "title": "Voice Simulation",
+              "points": [
+                "IVR & Deepfake Options",
+                "Script Recording for Insights",
+                "Real-time Analysis"
+              ]
+            },
+            {
+              "title": "Training & Awareness",
+              "points": [
+                "Role-specific security training",
+                "Performance tracking and reports"
+              ]
+            }
+          ],
+          "image": "/assests/product/phishiq1.jpg",
+          "layoutReverse": false
+        }
+      ]
+    },
+    {
+      "id": "phishiq",
+      "title": "PhishIQ",
+      "tagline": "Human-Centric Phishing Intelligence",
+      "hero": {
+        "heading": "Train, Test, and Transform Your Workforce",
+        "subheading": "PhishIQ™ empowers employees to identify and report phishing attempts in real time — turning your workforce into your first line of defense.",
+        "cta": "Book a Demo",
+        "image": "/assests/product/phishiq1.jpg"
+      },
+      "sections": [
+        {
+          "heading": "Why PhishIQ?",
+          "paragraphs": [
+            "PhishIQ™ brings behavioral psychology and gamified simulations to strengthen human defense against phishing. Track progress, simulate real-world attacks, and enhance employee awareness with interactive campaigns."
+          ],
+          "image": "/assests/product/phishIq2.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Core Features",
+          "features": [
+            "Realistic phishing simulations",
+            "Adaptive difficulty based on performance",
+            "Gamified leaderboard and recognition",
+            "Behavioral analytics dashboard"
+          ],
+          "image": "/assests/product/phishiq3.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Impact Metrics",
+          "metrics": [
+            { "title": "Employee Awareness Improvement", "value": "78%" },
+            { "title": "Phishing Incident Reduction", "value": "67%" },
+            { "title": "Response Time Improvement", "value": "52%" }
+          ],
+          "image": "/assests/product/phishiq4.png",
+          "layoutReverse": false
+        }
+      ]
+    },
+    {
+      "id": "cloud-security",
+      "title": "Cloud Security",
+      "tagline": "Secure Multi-Cloud Environments with Automated Risk Mitigation",
+      "hero": {
+        "heading": "End-to-End Cloud Security",
+        "subheading": "Protect your AWS, Azure, and GCP environments from misconfigurations, compliance gaps, and threats — all within a unified platform.",
+        "cta": "Get Started",
+        "image": "/assests/product/cloudSecurity1.jpg"
+      },
+      "sections": [
+        {
+          "heading": "Core Features & Capabilities",
+          "features": [
+            "Continuous Cloud Discovery & Inventory",
+            "Automated Security Assessment",
+            "Multi-Framework Compliance",
+            "AI-Powered Security Intelligence",
+            "Anomaly Detection & Predictive Analytics"
+          ],
+          "image": "/assests/product/cloudSecurity2.svg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Key Benefits",
+          "features": [
+            "Accelerate compliance readiness",
+            "Reduce security risks proactively",
+            "Improve operational efficiency"
+          ],
+          "image": "/assests/product/cloudSecurity3.svg",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Advanced Capabilities",
+          "subsections": [
+            {
+              "title": "AI-Powered Security Intelligence",
+              "points": [
+                "Anomaly Detection & Predictive Analytics",
+                "Smart Security Recommendations",
+                "Behavioral Analysis for Threat Insight"
+              ]
+            },
+            {
+              "title": "Advanced Reporting & Analytics",
+              "points": [
+                "Customizable dashboards",
+                "Multi-framework visibility"
+              ]
+            }
+          ],
+          "image": "/assests/product/cloudSecurity4.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Getting Started",
+          "paragraphs": [
+            "5-minute setup with agentless architecture.",
+            "Immediate insights and continuous monitoring post-deployment."
+          ],
+          "image": "/assests/product/grc7.jpg",
+          "layoutReverse": true
+        }
+      ]
+    },
+    {
+      "id": "inventory-management",
+      "title": "Inventory Management",
+      "tagline": "Unified Visibility for Multi-Cloud Assets",
+      "hero": {
+        "heading": "Multi-Cloud Asset Inventory & Visibility",
+        "subheading": "Gain complete visibility across AWS, Azure, and GCP with automatic discovery, classification, and monitoring — all from one dashboard.",
+        "cta": "Start Free Trial",
+        "image": "/assests/product/inventoryManagement1.svg"
+      },
+      "sections": [
+        {
+          "heading": "Comprehensive Asset Discovery & Inventory",
+          "features": [
+            "Automatic multi-cloud asset discovery",
+            "Continuous inventory updates",
+            "Smart classification & shadow IT detection",
+            "Powerful search and filtering"
+          ],
+          "image": "/assests/product/inventoryManagement2.svg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Deep Asset Context & Insights",
+          "features": [
+            "Configuration and permission visibility",
+            "IAM relationships and compliance posture",
+            "Risk scoring and vulnerability insights"
+          ],
+          "image": "/assests/product/inventoryManagement3.svg",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Unified Dashboard Experience",
+          "subsections": [
+            {
+              "title": "Executive-Level Insights",
+              "points": [
+                "Compliance scorecards",
+                "Risk trends and posture summaries"
+              ]
+            },
+            {
+              "title": "Engineer-Friendly Views",
+              "points": [
+                "Detailed configuration and asset-level insights"
+              ]
+            },
+            {
+              "title": "Customizable Dashboards",
+              "points": [
+                "Views for CISOs, DevOps, and Audit teams"
+              ]
+            }
+          ],
+          "image": "/assests/product/inventoryManagement4.svg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Change Detection & Alerts",
+          "paragraphs": [
+            "Instant alerts for new, modified, or deleted assets.",
+            "Real-time notifications for exposure risks."
+          ],
+          "image": "/assests/product/inventoryManagement5.svg",
+          "layoutReverse": true
+        }
+      ]
+    },
+    {
+      "id": "grc-platform",
+      "title": "Governance, Risk & Compliance (GRC) Platform",
+      "tagline": "Streamline enterprise risk management with automation, visibility, and control.",
+      "hero": {
+        "heading": "Unified Governance, Risk, and Compliance Management",
+        "subheading": "GRC automates compliance, mitigates third-party risks, and delivers real-time organizational risk visibility across your enterprise.",
+        "cta": "Request a Demo",
+        "image": "/assests/product/grc.jpg"
+      },
+      "sections": [
+        {
+          "heading": "Business Impact",
+          "metrics": [
+            { "title": "Reduction in Compliance Prep Time", "value": "78%" },
+            { "title": "Improvement in Risk Visibility", "value": "65%" },
+            { "title": "Faster Audit Completion", "value": "82%" },
+            { "title": "Reduction in Third-Party Risk", "value": "71%" }
+          ],
+          "image": "/assests/product/grc2.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Core Features & Capabilities",
+          "features": [
+            "Comprehensive Policy Management",
+            "Third-Party & Vendor Risk Assessment",
+            "End-to-End Risk & Compliance Management",
+            "Control Framework Management",
+            "Audit Management & Evidence Collection"
+          ],
+          "image": "/assests/product/grc3.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Risk Management & Assessment",
+          "features": [
+            "Enterprise risk identification and analysis",
+            "Continuous risk monitoring and treatment",
+            "Centralized risk register"
+          ],
+          "image": "/assests/product/grc4.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Advanced Analytics & Reporting",
+          "features": [
+            "C-Level dashboards with key KPIs",
+            "Predictive analytics for emerging risks"
+          ],
+          "image": "/assests/product/grc5.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Getting Started & Pricing",
+          "paragraphs": [
+            "Quick 5-minute setup, agentless architecture, and immediate insights.",
+            "Flexible licensing with a 30-day free trial."
+          ],
+          "image": "/assests/product/grc6.png",
+          "layoutReverse": false
+        }
+      ]
+    },
+    {
+      "id": "unified-compliance",
+      "title": "Unified Compliance Platform",
+      "tagline": "Comprehensive control self-assessment platform with 8500+ validation questions.",
+      "hero": {
+        "heading": "Simplify Compliance with a Unified Control Framework",
+        "subheading": "Automate assessments, cross-map frameworks, and visualize your organization’s compliance posture with real-time intelligence.",
+        "cta": "Explore Platform",
+        "image": "/assests/product/ucfhero.jpg"
+      },
+      "sections": [
+        {
+          "heading": "Key Platform Features",
+          "features": [
+            "One-click multi-framework compliance reporting",
+            "Rapid ISO/NIST assessments in 20 days",
+            "Smart workflow automation for progress tracking",
+            "Expert-guided evidence-based assessment"
+          ],
+          "image": "/assests/product/ucf4.jpg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Comprehensive Standards Coverage",
+          "features": [
+            "Unified mapping across 10+ frameworks",
+            "Automated cross-referencing of controls",
+            "Continuous updates to compliance requirements",
+            "Custom controls for organization-specific standards"
+          ],
+          "image": "/assests/product/ucf1.jpg",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Robust Security Features",
+          "features": [
+            "Multi-factor authentication",
+            "End-to-end encryption",
+            "Role-based access control",
+            "Comprehensive audit trails",
+            "Data sovereignty and localization"
+          ],
+          "image": "/assests/product/ucf2.jpg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "User Experience & Interface",
+          "features": [
+            "Intuitive dashboards with compliance KPIs",
+            "Customizable role-based views",
+            "Interactive charts and progress visuals",
+            "Drag-and-drop document upload"
+          ],
+          "image": "/assests/services/compliance1.webp",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Reporting & Analytics",
+          "features": [
+            "Dynamic report generation",
+            "Real-time analytics and benchmarking",
+            "Comparative analysis against industry standards",
+            "Executive summaries with actionable insights"
+          ],
+          "image": "/assests/services/data1.webp",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Business Benefits",
+          "metrics": [
+            { "title": "Cost Reduction", "value": "80%" },
+            { "title": "Efficiency Improvement", "value": "Significant" },
+            { "title": "Enhanced Security", "value": "Comprehensive Control Coverage" }
+          ],
+          "image": "/assests/services/penetrationtesting2.webp",
+          "layoutReverse": true
+        }
+      ]
+    },
+    {
+      "id": "unified-threat-defense",
+      "title": "Unified Threat Defense Platform & MDR",
+      "tagline": "Continuous enhancement for improved threat detection with focus on emerging threats.",
+      "hero": {
+        "heading": "Unified Threat Defense Platform & Managed Detection and Response (MDR)",
+        "subheading": "Next-gen AI/ML-driven threat intelligence, automation, and real-time defense capabilities aligned with MITRE D3FEND framework.",
+        "cta": "Learn More",
+        "image": "/assests/product/cloudSecurity1.jpg"
+      },
+      "sections": [
+        {
+          "heading": "Core Technology Components",
+          "features": [
+            "SIEM Integration with 6000+ rules",
+            "EDR Components covering 100+ rules",
+            "WAF/DDOS Analytics with 200+ rules",
+            "Deep Packet Inspection with 500+ rules",
+            "TIP & Flow Analytics for extended detection",
+            "APM for App Performance & Attack Detection (100+ rules)",
+            "IDS with 100+ data science-driven rules",
+            "DNS SEC protection with 500+ rules",
+            "UEBA monitoring 1000+ behavior patterns"
+          ],
+          "image": "/assests/product/grc7.jpg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "MITRE DEFEND Framework Alignment",
+          "features": [
+            "8500+ defense rules mapped to MITRE D3FEND techniques",
+            "Comprehensive defensive tactics and strategies",
+            "Real-time threat-to-defense mapping",
+            "Automated rule generation based on recommendations",
+            "Continuous updates with framework versions"
+          ],
+          "image": "/assests/product/ucf2.jpg",
+          "layoutReverse": true
+        },
+        {
+          "heading": "Business Impact",
+          "metrics": [
+            { "title": "Attack Surface Reduction", "value": "70%" },
+            { "title": "Exploitation Points Eliminated", "value": "Significant" }
+          ],
+          "image": "/assests/product/ucfhero.jpg",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Operational Advantages",
+          "features": [
+            "Single source of truth reducing alert fatigue",
+            "Consolidated security stack minimizing vendor dependencies",
+            "Integrated compliance controls for posture visibility",
+            "Supply chain risk reduction",
+            "Elastic native integration removing custom API needs",
+            "Standardized workflows reducing human error"
+          ],
+          "image": "/assests/product/grc3.png",
+          "layoutReverse": true
+        },
+        {
+          "heading": "AI/ML Capabilities",
+          "features": [
+            "Deep learning for traffic pattern analysis",
+            "Real-time behavioral threat detection",
+            "Predictive analytics for proactive defense",
+            "Automated ML-triggered responses",
+            "Adaptive learning to new threat vectors",
+            "AI/ML-powered classification for rapid response"
+          ],
+          "image": "/assests/product/cloudSecurity4.png",
+          "layoutReverse": false
+        },
+        {
+          "heading": "Future Roadmap",
+          "features": [
+            "Enhanced AI/ML-driven threat detection",
+            "Expanded BharatGen AI integration",
+            "Predictive threat modeling and analytics",
+            "Integration with emerging frameworks",
+            "Dynamic updates to indigenous security tech"
+          ],
+          "image": "/assests/product/ucf3.jpg",
+          "layoutReverse": true
+        }
+      ]
+    }
+
+   
+  ]
+}
