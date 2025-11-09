@@ -41,7 +41,7 @@ export const Header = () => {
     { name: "AI & LLM Security Testing", id: "ai-llm-security-testing" },
   ];
 
-  const links = ["Products", "Services", "Resources", "Trainings", "About Us"];
+  const links = ["Products", "Services",  "About Us"];
 
   return (
     <header className="fixed top-0 left-0 w-full z-50 backdrop-blur-xl bg-[#081B34]/90 border-b border-white/10 text-white">
@@ -52,7 +52,6 @@ export const Header = () => {
           <span className="text-[12px] font-normal text-gray-300">Consulting</span>
         </Link>
 
-        {/* Desktop Navigation */}
         <nav className="hidden md:flex space-x-8 text-[17px] font-medium">
           {links.map((link) =>
             link === "Products" || link === "Services" ? (
