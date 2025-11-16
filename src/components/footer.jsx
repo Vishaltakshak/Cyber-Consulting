@@ -41,8 +41,8 @@ const Footer = () => {
             </a>
           </p>
           <p className="text-gray-400">
-            <a href="mailto:dhruvibansal1302@gmail.com" className="text-gray-400 hover:text-gray-200">
-              ✉️ dhruvibansal1302@gmail.com
+            <a href="mailto:info.uvsecure@gmail.com" className="text-gray-400 hover:text-gray-200">
+              ✉️ info.uvsecure@gmail.com
             </a>
           </p>
           <p className="text-gray-400 mt-2">📍 Delhi, India</p>

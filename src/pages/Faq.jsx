@@ -184,7 +184,7 @@ export default function FAQPage() {
             We're here to support your security journey. Reach out anytime.
           </p>
           <ul className="space-y-2 text-slate-200">
-            <li> <a href="mailto:info.uvsecure@gmail.com">📧 Email: info.uvsecure@gmail.com</a>  </li>
+            <li> <a href="mailto:info.uvsecure@gmail.com">✉️ Email: info.uvsecure@gmail.com</a>  </li>
             <li> <a href="tel:+918826532520" className="text-gray-400 hover:text-gray-200">
               📞 +91 88265 32520
             </a></li>
