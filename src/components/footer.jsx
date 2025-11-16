@@ -3,16 +3,22 @@ import React from "react";
 const Footer = () => {
   return (
     <footer className="bg-[#0A1C3C] text-gray-300 py-10 px-6 md:px-12">
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-10 border-b border-gray-600 pb-8">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-[1.4fr_1fr_1fr]
+ gap-10 border-b border-gray-600 pb-8">
         
        
-        <div>
-          <h2 className="text-2xl font-bold text-white mb-4">
-            Cyber Security Consulting
-          </h2>
-          <p className="text-gray-400">
-            Safeguarding your digital ecosystem with strategic, end-to-end security solutions.
-          </p>
+        <div className="flex mr-4">
+          <img src="/assests/logo.jpg" className="h-[60%] w-[50%] pr-4" alt="" />
+          <div>
+
+            <h2  className="text-2xl font-bold text-white mb-4">UVSecure</h2>
+            <h2 className="text-xl font-semibold text-slate-300">
+              Cyber Security Consulting
+            </h2>
+            <p className="text-gray-400">
+              Safeguarding your digital ecosystem with strategic, end-to-end security solutions.
+            </p>
+          </div>
         </div>
 
         {/* Quick Links */}
