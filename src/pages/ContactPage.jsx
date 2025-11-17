@@ -58,7 +58,7 @@ const ContactPage = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    if (!formData.name || !formData.email || !formData.message) {
+    if (!formData.name || !formData.email || !formData.message || !formData.PhoneNo) {
       alert("Please fill out all required fields.");
       return;
     }
@@ -71,7 +71,7 @@ const ContactPage = () => {
       name: formData.name,
       email: formData.email,
       company: formData.company,
-      PhoneNo: formData.phoneno, 
+      PhoneNo: formData.PhoneNo, 
       message: formData.message,
       submittedAt: new Date().toISOString(),
     };
@@ -196,19 +196,19 @@ const ContactPage = () => {
               </div>
               <div>
                 <label
-                  htmlFor="phoneno"
+                  htmlFor="PhoneNo"
                   className="block text-sm font-medium text-slate-300 mb-2"
                 >
-                  Phone Number (Optional)
+                  Phone Number
                 </label>
                 <input
                   type="tel"
-                  name="phoneno"
-                  id="phoneno"
+                  name="PhoneNo"
+                  id="PhoneNo"
                   value={formData.PhoneNo}
                   onChange={handleChange}
                   className="w-full px-4 py-3 rounded-md bg-white/10 border border-white/20 text-white placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-400"
-                  placeholder="+(91) 123-4567"
+                  placeholder="+(91) 123-4567-99"
                 />
               </div>
             </div>
